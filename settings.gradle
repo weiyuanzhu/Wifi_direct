@@ -1,0 +1,1 @@
+include ':wifi_direct_message_client', ':wifi_direct_settings', ':wifi_direct_file_server', ':wifi_direct_message_server', ':wifi_direct_file_client'
